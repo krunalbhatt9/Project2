@@ -131,6 +131,7 @@
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Runtime\Data\Type\Transformation\Conversion\FloatToBoolean.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Runtime\Data\Type\Transformation\Conversion\FloatToVector2.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Runtime\Data\Type\Transformation\Conversion\Vector2ToAngle.cs" />
+     <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Runtime\Data\Type\Transformation\Conversion\Vector2ToFloat.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Runtime\Data\Type\Transformation\Conversion\Vector2ToVector3.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Runtime\Data\Type\Transformation\Conversion\Vector3ToVector2.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Runtime\Data\Type\Transformation\Transformer.cs" />

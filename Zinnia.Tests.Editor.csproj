@@ -100,6 +100,7 @@
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Tests\Editor\Data\Type\Transformation\Conversion\FloatToBooleanTest.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Tests\Editor\Data\Type\Transformation\Conversion\FloatToVector2Test.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Tests\Editor\Data\Type\Transformation\Conversion\Vector2ToAngleTest.cs" />
+     <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Tests\Editor\Data\Type\Transformation\Conversion\Vector2ToFloatTest.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Tests\Editor\Data\Type\Transformation\Conversion\Vector2ToVector3Test.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Tests\Editor\Data\Type\Transformation\Conversion\Vector3ToVector2Test.cs" />
      <Compile Include="Assets\VRTK\Dependencies\Zinnia.Unity\Tests\Editor\Data\Type\Transformation\Vector3MagnitudeSetterTest.cs" />
