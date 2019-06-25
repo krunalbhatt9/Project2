@@ -77,6 +77,7 @@
      <Compile Include="Assets\VRTK\Prefabs\Helpers\Tooltip\SharedResources\Scripts\TooltipFacade.cs" />
      <Compile Include="Assets\VRTK\Prefabs\Helpers\TrackedCollider\SharedResources\Scripts\TrackedColliderConfigurator.cs" />
      <Compile Include="Assets\VRTK\Prefabs\Helpers\TrackedCollider\SharedResources\Scripts\TrackedColliderFacade.cs" />
+     <Compile Include="Assets\VRTK\Prefabs\Interactions\Controllables\SharedResources\Scripts\ComponentTags\ControllableJointDriveContainerTag.cs" />
      <Compile Include="Assets\VRTK\Prefabs\Interactions\Controllables\SharedResources\Scripts\DirectionalDrive.cs" />
      <Compile Include="Assets\VRTK\Prefabs\Interactions\Controllables\SharedResources\Scripts\DirectionalDriveFacade.cs" />
      <Compile Include="Assets\VRTK\Prefabs\Interactions\Controllables\SharedResources\Scripts\DirectionalJointDrive.cs" />
