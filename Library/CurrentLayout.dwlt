@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 91
+  controlID: 66
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 92
+  controlID: 67
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 93
+  controlID: 68
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -384,7 +384,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8efbffff
+      m_ExpandedIDs: 18f8ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -444,9 +444,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.2376388, y: 1.2133998, z: -0.40768772}
+    m_Target: {x: -4.267186, y: -1.5950675, z: 8.839737}
     speed: 2
-    m_Value: {x: -1.2376388, y: 1.2133998, z: -0.40768772}
+    m_Value: {x: -4.267186, y: -1.5950675, z: 8.839737}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -475,13 +475,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.42600152, y: -0.5621527, z: 0.4177871, w: -0.57278305}
+    m_Target: {x: -0.1969186, y: -0.17151988, z: 0.034771148, w: -0.9647382}
     speed: 2
-    m_Value: {x: -0.42597607, y: -0.5621191, z: 0.41776216, w: -0.57274884}
+    m_Value: {x: -0.19690633, y: -0.17150918, z: 0.03476898, w: -0.96467805}
   m_Size:
-    m_Target: 17.93272
+    m_Target: 25.953966
     speed: 2
-    m_Value: 17.93272
+    m_Value: 26.633116
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -576,14 +576,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/aej/2019 P1VR  test
+  m_LastProjectPath: /Users/aej/2019 P1VR  test/Project2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 00300000
-    m_LastClickedID: 12288
-    m_ExpandedIDs: 00000000003000003c3000007a300000ec310000f4310000443200007e320000c6320000a4340000b83400003e350000623500006c3500009a350000c835000010360000be360000f43700001a3800004a380000ac4e000000ca9a3b
+    m_SelectedIDs: 2e350000
+    m_LastClickedID: 13614
+    m_ExpandedIDs: 000000002e3500006a350000a83500001a3700002237000072370000ac370000f4370000d2390000e63900006c3a0000903a00009a3a0000c83a0000f83a0000403b0000ee3b0000243d00004a3d00007a3d00000c54000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000003000003c3000007a300000ec310000f4310000443200007e320000c6320000a4340000b83400003e350000623500006c3500009a350000c835000010360000be360000f43700001a3800004a380000ac4e0000
+    m_ExpandedIDs: 000000002e3500006a350000a83500001a3700002237000072370000ac370000f4370000d2390000e63900006c3a0000903a00009a3a0000c83a0000f83a0000403b0000ee3b0000243d00004a3d00007a3d00000c540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
